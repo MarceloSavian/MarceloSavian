@@ -9,7 +9,7 @@
 Working as a FullStack Developer at Campeão Negócios
 
 #### Open Source
-Working on an access management app for personal projects
+Working on an access management microservice
 
 ### Find me elsewhere 🌎
 
