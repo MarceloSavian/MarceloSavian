@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, I'm Marcelo Savian! 👋
 
-<!--
-**MarceloSavian/MarceloSavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷 Born in Fraiburgo, Brazil <br>
+🇧🇷 Living in Joinville, Brazil
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Private
+Working as a FullStack Developer at Campeão Negócios
+
+# Open Source
+Working on an access management app for personal projects
+
+### Find me elsewhere 🌎
+
+📸 [Instagram](https://instagram.com/marcelosavian) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/marcelo-savian-98927715b/) <br>
