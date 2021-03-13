@@ -5,10 +5,10 @@
 
 ### What I'm working on 👨‍💻
 
-# Private
+#### Private
 Working as a FullStack Developer at Campeão Negócios
 
-# Open Source
+#### Open Source
 Working on an access management app for personal projects
 
 ### Find me elsewhere 🌎
