@@ -8,9 +8,6 @@
 #### Private
 Working as a FullStack Developer at Warren
 
-#### Open Source
-Working on an access management microservice
-
 ### Find me elsewhere 🌎
 
 📸 [Instagram](https://instagram.com/marcelosavian) <br>
