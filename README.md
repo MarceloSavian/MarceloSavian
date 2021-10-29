@@ -8,6 +8,11 @@
 #### Private
 Working as a FullStack Developer at Warren
 
+### Some of my personal projects
+
+[Backend](https://github.com/MarceloSavian/bank_account_backend)
+[Frontend](https://github.com/MarceloSavian/bank_account_frontend)
+
 ### Find me elsewhere 🌎
 
 📸 [Instagram](https://instagram.com/marcelosavian) <br>
